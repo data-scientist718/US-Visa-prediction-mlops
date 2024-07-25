@@ -1,0 +1,74 @@
+# Jupyter kernel, required to run Jupyter notebooks
+ipykernel
+
+# Data manipulation and analysis library
+pandas
+
+# Fundamental package for scientific computing with Python, providing support for arrays
+numpy
+
+# Comprehensive library for creating static, animated, and interactive visualizations in Python
+matplotlib
+
+# Interactive graphing library for Python
+plotly
+
+# Statistical data visualization library based on matplotlib
+seaborn
+
+# Library for scientific and technical computing, including optimization, integration, interpolation, eigenvalue problems, and more
+scipy
+
+# Machine learning library that includes various classification, regression, and clustering algorithms
+scikit-learn
+
+# Imbalanced-learn, a toolset for handling imbalanced datasets in machine learning
+imblearn
+
+# Scalable, portable, and distributed gradient boosting library
+xgboost
+
+# Gradient boosting library with categorical features support
+catboost
+
+# Python driver for MongoDB, allowing interaction with MongoDB databases
+pymongo
+
+# Utility to import modules from the project root directory
+from_root
+
+# Evidently, a library for data monitoring and testing machine learning models in production
+evidently==0.2.8
+
+# Serialize and deserialize Python objects
+dill
+
+# YAML parser and emitter for Python
+PyYAML
+
+# A package for neural collaborative filtering (recommender systems)
+neuro_mf
+
+# Amazon Web Services (AWS) SDK for Python, used for interacting with AWS services like S3
+boto3
+
+# Type annotations for boto3 S3 client, used for type checking and autocompletion
+mypy-boto3-s3
+
+# Low-level, data-driven core of boto3
+botocore
+
+# FastAPI, a modern, fast (high-performance) web framework for building APIs with Python
+fastapi
+
+# ASGI server implementation for serving FastAPI applications
+uvicorn
+
+# Templating engine for Python, used in web applications to generate HTML dynamically
+jinja2
+
+# Handling file uploads in FastAPI applications
+python-multipart
+
+# Editable installation, typically used during development. The `-e` flag allows the package to be imported as a module directly from the source code directory.
+-e .
